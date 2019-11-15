@@ -32,6 +32,10 @@ github_username:  jekyll
 theme: bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
